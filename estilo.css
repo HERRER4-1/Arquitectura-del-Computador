@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(21, 110, 161);
+}
+
+.nav {
+    list-style-type: none;
+    margin-top: -2%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+    width: 100%;
+    position: fixed;
+}
+
+.il {
+    float: left;
+    background-color: #000;
+    margin: 0% 5%;
+    font-size: 30px;
+}
+
+.il a{
+    background-color: #000;
+    color: #fff;
+    text-decoration:none;
+    padding:15px 50px;
+    display:block;
+    text-align: center;
+    margin-left: 0%;
+}
+
+.il a:hover{
+    background-color: #444444;
+    font-size: 30px;
+    padding:15px 50px;
+}
+
+p, li{ 
+    font-size:20px;
+    text-align: justify;
+    padding: 0% 13%;
+}
+
+.texto{
+    padding-top: 8%;
+}
+
+.header{
+    padding-top: 6%;
+}
+
+h1{
+    text-align: center;
+    margin: 2%;
+}
+
+img{
+    padding: 3.5%;
+}
+
+.linux4{
+    padding-left: 11.3%;
+}
+
+.instalacion1{min-height: 400px;}
+.instalacion4{min-height: 500px;}
